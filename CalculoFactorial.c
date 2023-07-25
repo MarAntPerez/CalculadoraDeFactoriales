@@ -5,8 +5,13 @@
 
 int main(int argc, char *argv[]) {
 	
+	/**Esta variable de tipo entero guarda el numero que ingrese el usuario**/
 	int numeroIngresado;
+	
+	/**Esta variable de tipo entero es un contador**/
 	int contador = 1;
+	
+	/**Esta variable de tipo entero guarda el factoriañ del numero ingresado**/
 	int factorial;
 	//1! = 1 = 1
 	//2! = 1*2 = 2
